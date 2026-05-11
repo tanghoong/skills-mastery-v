@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /Users/charlie_vulyplay/Documents/GitHub/skills-mastery/interesting-person)"
+    ],
+    "additionalDirectories": [
+      "/Users/charlie_vulyplay/Documents/GitHub/skills-mastery"
+    ]
+  }
+}
