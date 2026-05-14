@@ -1,0 +1,22 @@
+# Dependencies
+vendor/
+
+# Environment
+.env
+
+# Logs
+*.log
+logs/
+
+# macOS
+.DS_Store
+
+# Test coverage output
+coverage/
+.phpunit.cache/
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
